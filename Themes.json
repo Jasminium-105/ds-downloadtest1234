@@ -65,4 +65,26 @@
     "SideBarUnselected": "#2B7042",
     "TextColor": "#CE50CF"
   }
+  "Sim2Editor Theme / Stack Theme": {
+    "Description": "A theme based on Sim2Editor's 3DS version.\n\nBy: StackZ",
+    "BarColor": "#2C3040",
+    "BGColor": "#343840",
+    "BarOutline": "#161820",
+    "TextColor": "#D8E4E4",
+    "EntryBar": "#3C3F71",
+    "EntryOutline": "#2A2E36",
+    "BoxInside": "#3C3F71",
+    "BoxSelected": "#2A2E36",
+    "BoxUnselected": "#6669AA",
+    "ProgressbarOut": "#2A2E36",
+    "ProgressbarIn": "#3C3F71",
+    "SearchBar": "#3C3F71",
+    "SearchBarOutline": "#2A2E36",
+    "SideBarSelected": "#3C3F71",
+    "SideBarUnselected": "#2A2E36",
+    "MarkSelected": "#3C3F71",
+    "MarkUnselected": "#2A2E36",
+    "DownListPrev": "#343C4C",
+    "SideBarIconColor": "#6669AA"
+  }
 }
